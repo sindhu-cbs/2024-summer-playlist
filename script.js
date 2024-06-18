@@ -3,6 +3,7 @@ let songlist =
     'Summer', 
     'No Fear',
     'TiK ToK' 
+    'Misty'
   ];
 
 let index = 0;
