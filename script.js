@@ -3,6 +3,9 @@ let songlist =
     'Summer', 
     'No Fear',
     'TiK ToK',
+    'Espresso',
+    'Something About You - Eyedress, Dent May',
+    'Notion - The Rare Occasions'
     'Espresso'
     'Too Sweet',
     'Espresso',
