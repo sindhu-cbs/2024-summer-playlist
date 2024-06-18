@@ -8,15 +8,9 @@ let songlist =
     'vampire'
     'Text Me When You Get Home'
     'Kiss the Ladder'
-    'TiK ToK' 
     'Misty'
-    'TiK ToK', 
-    'Espresso',
     'Obsessed'
-    'Espresso,'
     'Baby,'
-    'TiK ToK',
-    'Espresso',
     "Not Like Us"
     'My Finest Hour'
     'Hot To Go'
@@ -24,7 +18,6 @@ let songlist =
     'Notion - The Rare Occasions'
     'Espresso'
     'Too Sweet',
-    'Espresso',
     'Cinnamon Girl',
     'Chihiro',
     'the boy is mine',
