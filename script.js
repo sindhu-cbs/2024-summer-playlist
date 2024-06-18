@@ -10,11 +10,11 @@ let songlist =
     'Kiss the Ladder',
     'Misty',
     'Obsessed',
-    'Baby,'
+    'Baby',
     'Not Like Us',
     'My Finest Hour',
     'Hot To Go',
-    'Something About You - Eyedress, Dent May',
+    'Something About You - Eyedress Dent May',
     'Notion - The Rare Occasions',
     'Espresso',
     'Too Sweet',
