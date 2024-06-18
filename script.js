@@ -3,8 +3,16 @@ let songlist =
     'Summer', 
     'No Fear',
     'TiK ToK',
+    'Too Sweet',
+    'the boy is mine',
     'Espresso',
-    'Too Sweet'
+    'Saturn',
+    'Latch',
+    'Please Please Please',
+    'Fake Love',
+    'Heat Waves',
+    'Good Luck Babe',
+    'Moon Undah Water'
   ];
 
 let index = 0;
