@@ -4,6 +4,7 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Espresso',
+    'YA YA'
     'vampire'
     'Text Me When You Get Home'
     'Kiss the Ladder'
