@@ -2,8 +2,9 @@ let songlist =
   [
     'Summer', 
     'No Fear',
-    'TiK ToK' 
-    'Espresso'
+    'TiK ToK', 
+    'Espresso',
+    'Obsessed'
   ];
 
 let index = 0;
