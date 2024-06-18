@@ -2,6 +2,9 @@ let songlist =
   [
     'Summer', 
     'No Fear',
+    'TiK ToK', 
+    'Espresso',
+    'Obsessed'
     'Espresso,'
     'Baby,'
     'TiK ToK',
