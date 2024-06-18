@@ -4,6 +4,7 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Espresso',
+    'Hot To Go'
     'Something About You - Eyedress, Dent May',
     'Notion - The Rare Occasions'
     'Espresso'
