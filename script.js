@@ -4,7 +4,13 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Espresso',
-    'Saturn'
+    'Saturn',
+    'Latch',
+    'Please Please Please',
+    'Fake Love',
+    'Heat Waves',
+    'Good Luck Babe',
+    'Moon Undah Water'
   ];
 
 let index = 0;
