@@ -4,6 +4,7 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Espresso',
+    'Heat Waves'
     'Good Luck Babe'
     'Moon Undah Water'
   ];
