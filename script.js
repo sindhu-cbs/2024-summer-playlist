@@ -3,11 +3,11 @@ let songlist =
     'Summer', 
     'No Fear',
     'TiK ToK',
+    'Too Sweet',
     'Espresso',
-    'Cinnamon Girl'
-    'Chihiro'
+    'Cinnamon Girl',
+    'Chihiro',
     'the boy is mine',
-    'Espresso',
     'Saturn',
     'Latch',
     'Please Please Please',
