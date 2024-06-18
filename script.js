@@ -6,6 +6,7 @@ let songlist =
     'Baby,'
     'TiK ToK',
     'Espresso',
+    'My Finest Hour'
     'Hot To Go'
     'Something About You - Eyedress, Dent May',
     'Notion - The Rare Occasions'
