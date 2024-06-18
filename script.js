@@ -5,6 +5,8 @@ let songlist =
     'TiK ToK',
     'Espresso',
     'Heat Waves'
+    'Good Luck Babe'
+    'Moon Undah Water'
   ];
 
 let index = 0;
