@@ -3,6 +3,8 @@ let songlist =
     'Summer', 
     'No Fear',
     'TiK ToK',
+    'Espresso',
+    'vampire'
     'Text Me When You Get Home'
     'Kiss the Ladder'
     'TiK ToK' 
