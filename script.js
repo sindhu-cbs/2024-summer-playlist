@@ -4,19 +4,19 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Espresso',
-    'YA YA'
-    'vampire'
-    'Text Me When You Get Home'
-    'Kiss the Ladder'
-    'Misty'
-    'Obsessed'
+    'YA YA',
+    'vampire',
+    'Text Me When You Get Home',
+    'Kiss the Ladder',
+    'Misty',
+    'Obsessed',
     'Baby,'
-    "Not Like Us"
-    'My Finest Hour'
-    'Hot To Go'
+    "Not Like Us",
+    'My Finest Hour',
+    'Hot To Go',
     'Something About You - Eyedress, Dent May',
-    'Notion - The Rare Occasions'
-    'Espresso'
+    'Notion - The Rare Occasions',
+    'Espresso',
     'Too Sweet',
     'Cinnamon Girl',
     'Chihiro',
