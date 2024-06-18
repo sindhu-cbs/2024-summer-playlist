@@ -4,6 +4,34 @@ let songlist =
     'No Fear',
     'TiK ToK',
     'Text Me When You Get Home'
+    'Kiss the Ladder'
+    'TiK ToK' 
+    'Misty'
+    'TiK ToK', 
+    'Espresso',
+    'Obsessed'
+    'Espresso,'
+    'Baby,'
+    'TiK ToK',
+    'Espresso',
+    "Not Like Us"
+    'My Finest Hour'
+    'Hot To Go'
+    'Something About You - Eyedress, Dent May',
+    'Notion - The Rare Occasions'
+    'Espresso'
+    'Too Sweet',
+    'Espresso',
+    'Cinnamon Girl',
+    'Chihiro',
+    'the boy is mine',
+    'Saturn',
+    'Latch',
+    'Please Please Please',
+    'Fake Love',
+    'Heat Waves',
+    'Good Luck Babe',
+    'Moon Undah Water'
   ];
 
 let index = 0;
